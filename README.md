@@ -37,7 +37,7 @@
 <a href="https://github.com/codewithrashed">  
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=codewithrashed&theme=algolia" height="120em" />  
 
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codewithrashed&theme=algolia" height="280em" width="280em"/>   
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codewithrashed&theme=algolia" height="380em" width="380em"/>  
 </div>
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
