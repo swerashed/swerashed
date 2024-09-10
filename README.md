@@ -3,15 +3,15 @@
 <h1 align="center">Hi 👋, I'm Rashed</h1>  
 <h4 align="center">MERN Stack Developer | Crafting Engaging Web Applications using (Next.js, MongoDB, Express.js, React, Node.js) stack.</h4>
 
-🌱 I’m currently learning MERN Stack<br>💬 Ask me about React, Next Js, Express and MongoDB<br>📫 Email me with [![Hello Rashed](https://img.shields.io/badge/Gamil-%231877F2.svg?logo=Gmail&logoColor=white)](mailto:talk.rashed@gmail.com)<br>👨‍💻 All of my projects are available at [🌐 View Protfolio](https://codewithrashed.github.io/)<br>📄 Know about my experiences [Download Resume](https://docs.google.com/document/d/1kj6NViwHd5_0jWXYqgRCDa-SU_48HE0Vz-gz6DNTPVQ/export?format=pdf) 
+🌱 I’m currently learning MERN Stack<br>💬 Ask me about React, Next Js, Express and MongoDB<br>📫 Email me with [![Hello Rashed](https://img.shields.io/badge/Gamil-%231877F2.svg?logo=Gmail&logoColor=white)](mailto:talk.rashed@gmail.com)<br>👨‍💻 All of my projects are available at [🌐 View Protfolio](https://programmerrashed.github.io/)<br>📄 Know about my experiences [Download Resume](https://docs.google.com/document/d/1kj6NViwHd5_0jWXYqgRCDa-SU_48HE0Vz-gz6DNTPVQ/export?format=pdf) 
 
 
 
-<div> <a href="https://twitter.com/codewithrashed" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>  
-<a href="https://www.linkedin.com/in/codewithrashed" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-<a href="https://github.com/codewithrashed" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>  
+<div> <a href="https://twitter.com/programmerashed" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>  
+<a href="https://www.linkedin.com/in/programmerrashed" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+<a href="https://github.com/programmerrashed" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>  
 <a href = "mailto:talk.rashed@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
-<a href = "https://youtube.com/@codewithrashed"><img src="https://img.shields.io/badge/-Youtube-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
+<a href = "https://youtube.com/@programmerrashed"><img src="https://img.shields.io/badge/-Youtube-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
 </div>
 
 # 💻 Tech Stack:
@@ -34,12 +34,12 @@
 <h3> 📊 GitHub Stats:</h3>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>  
 <div align="center">  
-<a href="https://github.com/codewithrashed">  
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=codewithrashed&theme=algolia" height="120em" />  
+<a href="https://github.com/programmerrashed">  
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=programmerrashed&theme=algolia" height="120em" />  
 
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codewithrashed&theme=algolia" height="280em" width="380em"/>
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=programmerrashed&theme=algolia" height="280em" width="380em"/>
 
-<p><img src="https://github-profile-trophy.vercel.app/?username=codewithrashed">
+<p><img src="https://github-profile-trophy.vercel.app/?username=programmerrashed">
 </p>
 </div>
 
