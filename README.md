@@ -1,9 +1,8 @@
 
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />  
 <h1 align="center">Hi 👋, I'm Rashed</h1>  
-<h4 align="center">MERN Stack Developer | Crafting Engaging Web Applications using (Next.js, MongoDB, Express.js, React, Node.js) stack.</h4>
+<h4 align="center">🚀Full Stack Developer | Building dynamic, user-friendly web solutions that drive growth. Let's connect and create something impactful!</h4>
 
-🌱 I’m currently learning MERN Stack<br>💬 Ask me about React, Next Js, Express and MongoDB<br>📫 Email me with [![Hello Rashed](https://img.shields.io/badge/Gamil-%231877F2.svg?logo=Gmail&logoColor=white)](mailto:talk.rashed@gmail.com)<br>👨‍💻 All of my projects are available at [🌐 View Protfolio](https://programmerrashed.github.io/)<br>📄 Know about my experiences [Download Resume](https://docs.google.com/document/d/1kj6NViwHd5_0jWXYqgRCDa-SU_48HE0Vz-gz6DNTPVQ/export?format=pdf) 
+🌱 I’m currently learning MERN Stack<br>💬 Ask me about React, Next Js, Express and MongoDB<br>📫 Email me with [![Hello Rashed](https://img.shields.io/badge/Gamil-%231877F2.svg?logo=Gmail&logoColor=white)](mailto:talk.rashed@gmail.com)<br>👨‍💻 All of my projects are available at [🌐 View Protfolio](https://programmerrashed.github.io/)<br>📄 Know about my experiences [Download Resume](https://docs.google.com/document/d/1wltIgU7sK84VmVKjpbK9qn4ePuLNqqf5N1uFXLLua60/export?format=pdf) 
 
 
 
