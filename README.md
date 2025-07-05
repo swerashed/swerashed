@@ -2,15 +2,16 @@
 <h1 align="center">Hi 👋, I'm Rashed</h1>  
 <h4 align="center">🚀Full Stack Developer | Building dynamic, user-friendly web solutions that drive growth. Let's connect and create something impactful!</h4>
 
-🌱 I’m currently learning GSAP Stack<br>💬 Ask me about React, Next Js, Express, MongoDB and PostgreSQL<br>📫 Email me with [![Hello Rashed](https://img.shields.io/badge/Gamil-%231877F2.svg?logo=Gmail&logoColor=white)](mailto:talk.rashed@gmail.com)<br>👨‍💻 All of my projects are available at [🌐 View Protfolio](https://rashed-portfolio.vercel.app)<br>📄 Know about my experiences [Download Resume](https://docs.google.com/document/d/1wltIgU7sK84VmVKjpbK9qn4ePuLNqqf5N1uFXLLua60/export?format=pdf) 
+🌱 I’m currently learning GSAP Stack<br>💬 Ask me about React, Next Js, Express, MongoDB and PostgreSQL<br>📫 Email me with [![Hello Rashed](https://img.shields.io/badge/Gamil-%231877F2.svg?logo=Gmail&logoColor=white)](mailto:talk.rashed@gmail.com)<br>👨‍💻 All of my projects are available at <a href="https://rashed-portfolio.vercel.app" target="_blank">🌐 View Protfolio</a> <br>📄 Know about my experiences [Download Resume](https://docs.google.com/document/d/1wltIgU7sK84VmVKjpbK9qn4ePuLNqqf5N1uFXLLua60?tab=t.mg5lvut258fo?export?format=pdf) 
 
 
 
-<div> <a href="https://twitter.com/swerashed" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>  
+<div> 
+ <a href="https://twitter.com/swerashed" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>  
 <a href="https://www.linkedin.com/in/swerashed" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 <a href="https://github.com/swerashed" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>  
-<a href = "mailto:talk.rashed@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
-<a href = "https://youtube.com/@swerashed"><img src="https://img.shields.io/badge/-Youtube-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
+<a href="mailto:talk.rashed@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
+<a href="https://youtube.com/@swerashed"><img src="https://img.shields.io/badge/-Youtube-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
 </div>
 
 # 💻 Tech Stack:
