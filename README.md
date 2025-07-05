@@ -31,15 +31,12 @@
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 <h3> 📊 GitHub Stats:</h3>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>  
-<div align="center">  
-<a href="https://github.com/programmerrashed">  
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=programmerrashed&theme=algolia" height="120em" />  
-
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=programmerrashed&theme=algolia" height="280em" width="380em"/>
-
-<p><img src="https://github-profile-trophy.vercel.app/?username=programmerrashed">
-</p>
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=swerashed&theme=2077" style="width:100%;" alt="GitHub Profile Details" />
+  <br/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=swerashed&theme=2077" width="48%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=swerashed&theme=2077" width="48%" />
+  <br/>
+  <img  style="width:100%;" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=swerashed&theme=gruvbox&utcOffset=8" alt="Commits per day badge"/>
 </div>
-
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
