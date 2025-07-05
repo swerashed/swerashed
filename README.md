@@ -2,7 +2,12 @@
 <h1 align="center">Hi 👋, I'm Rashed</h1>  
 <h4 align="center">🚀Full Stack Developer | Building dynamic, user-friendly web solutions that drive growth. Let's connect and create something impactful!</h4>
 
-🌱 I’m currently learning GSAP Stack<br>💬 Ask me about React, Next Js, Express, MongoDB and PostgreSQL<br>📫 Email me with [![Hello Rashed](https://img.shields.io/badge/Gamil-%231877F2.svg?logo=Gmail&logoColor=white)](mailto:talk.rashed@gmail.com)<br>👨‍💻 All of my projects are available at <a href="https://rashed-portfolio.vercel.app" target="_blank">🌐 View Protfolio</a> <br>📄 Know about my experiences [Download Resume](https://docs.google.com/document/d/1wltIgU7sK84VmVKjpbK9qn4ePuLNqqf5N1uFXLLua60?tab=t.mg5lvut258fo?export?format=pdf) 
+🌱 I’m currently learning GSAP  
+💬 Ask me about React, Next.js, Express, MongoDB, and PostgreSQL  
+📫 Email me: [![Gmail](https://img.shields.io/badge/Gmail-%231877F2.svg?logo=Gmail&logoColor=white)](mailto:talk.rashed@gmail.com)  
+👨‍💻 View all projects: [🌐 Portfolio](https://rashed-portfolio.vercel.app)  
+📄 Know about my experience: [📥 Download Resume (PDF)](https://docs.google.com/document/d/1j7Wj1TFcpeb9mpyiVQsB5EIF0wH0ZX77PuL5jAfU4xY/export?format=pdf)
+
 
 
 
