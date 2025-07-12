@@ -42,6 +42,5 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=swerashed&theme=2077" width="48%" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=swerashed&theme=2077" width="48%" />
   <br/>
-  <img  style="width:100%;" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=swerashed&theme=gruvbox&utcOffset=8" alt="Commits per day badge"/>
 </div>
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
