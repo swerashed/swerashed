@@ -6,8 +6,6 @@
 💬 Ask me about React, Next.js, Express, MongoDB, and PostgreSQL  
 📫 Email me: [![Gmail](https://img.shields.io/badge/Gmail-%231877F2.svg?logo=Gmail&logoColor=white)](mailto:talk.rashed@gmail.com)  
 👨‍💻 View all projects: [🌐 Portfolio](https://rashed-portfolio.vercel.app)  
-📄 Know about my experience: [📥 Download Resume (PDF)](https://docs.google.com/document/d/1j7Wj1TFcpeb9mpyiVQsB5EIF0wH0ZX77PuL5jAfU4xY/export?format=pdf)
-
 
 
 
